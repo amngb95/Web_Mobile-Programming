@@ -24,8 +24,8 @@ function showUser(user) {
     console.log(user);
     $("#ppc2").text(user.login)
     $("#ppc3").text(user.name)
-    $("#avatar").append('<img src="'+user.avatar_url+'" width="100px" height="100px"/>')
-    $("#information").append('<a href="'+user.html_url+'">Github Url</a></br><a href="'+user.repos_url+'">Repo Url</a>')
+    $("#avatar").append('<img src="'+user.avatar_url+'" width="200px" height="200px"/>')
+    $("#information").append('<a style="font-size: 325%" href="'+user.html_url+'" >Github Url</a></br><a style="font-size: 325%" href="'+user.repos_url+'">Repo Url</a>')
     //2. set the contents of the h2 and the two div elements in the div '#profile' with the user content
 
 }
