@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculator</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculator</title>
+</head>
+<body>
+<header>
+  <h1>
+    CALCULATOR
+  </h1>
+</header>
+<div class="c">
+  <div class="base">
+    <div class="r maindisplay">
+      <div class="subdisplay">
+        {{ subText }}
+      </div>
+      {{ mainText }}
+    </div>
+
+    <div class="r" style="width: 100%;margin-top: 20px">
+      <button (click)="allClear()" style="width: 55%">
+        C
+      </button>
+    </div>
+    <div class="r">
+      <button (click)="pressKey('1')">1</button>
+      <button (click)="pressKey('2')">2</button>
+      <button (click)="pressKey('3')">3</button>
+      <button (click)="pressKey('+')">+</button>
+    </div>
+    <div class="r">
+      <button (click)="pressKey('4')">4</button>
+      <button (click)="pressKey('5')">5</button>
+      <button (click)="pressKey('6')">6</button>
+      <button (click)="pressKey('-')">-</button>
+    </div>
+    <div class="r">
+      <button (click)="pressKey('7')">7</button>
+      <button (click)="pressKey('8')">8</button>
+      <button (click)="pressKey('9')">9</button>
+      <button (click)="pressKey('')"></button>
+    </div>
+    <div class="r">
+      <button (click)="pressKey('0')">0</button>
+      <button (click)="pressKey('.')">.</button>
+      <button (click)="getAnswer()">=</button>
+      <button (click)="pressKey('/')">/</button>
+    </div>
+  </div>
+</div>
+</body>
+</html>
+</body>
+</html>
