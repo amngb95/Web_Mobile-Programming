@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="Web_ICP5/Web_Lesson5/Angular/CustomDatabindingDemo/node_modules" />
+    <excludedPredefinedLibrary name="Web_ICP5/Web_Lesson5/Angular/LocalStorageDemo/node_modules" />
+    <excludedPredefinedLibrary name="Web_ICP5/Web_Lesson5/Usecase/memory-game/node_modules" />
+  </component>
+</project>
