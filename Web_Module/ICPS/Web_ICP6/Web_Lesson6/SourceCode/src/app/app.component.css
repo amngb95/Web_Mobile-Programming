@@ -1,0 +1,5 @@
+.image{
+  height:100%; background-size:cover; width:100%;
+  background-image:url('https://i.ytimg.com/vi/i1E9TpE6J4w/maxresdefault.jpg');
+  background-position:50% 50%;
+}
