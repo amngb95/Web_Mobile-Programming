@@ -1,0 +1,4 @@
+#Sat Oct 19 15:22:41 CDT 2019
+base.0=C\:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

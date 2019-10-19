@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\86cbfbc9abad9ecd8fdbce8b4cac7863c4caf7f6\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\86cbfbc9abad9ecd8fdbce8b4cac7863c4caf7f6\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\86cbfbc9abad9ecd8fdbce8b4cac7863c4caf7f6\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\86cbfbc9abad9ecd8fdbce8b4cac7863c4caf7f6\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\anves\\Documents\\GitHub\\CS5551_Team_6_2_ICP\\ICP4\\Source\\TranslateApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\anves\\.android\\build-cache\\a2f1c4a74a4d69b627b6dd18114590184288a8cd\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]
