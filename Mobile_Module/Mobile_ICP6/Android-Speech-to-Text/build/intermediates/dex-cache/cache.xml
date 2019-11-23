@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\1f949486b8303f216943d80f35b60ecf146f892d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_2a91474f332504e095fc48710f5df8d8fd3347a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\e3d6c4fc95bbc6eefc423af9627bfd8d8171ca1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_1c08dcdf5bb76d201bfced086038669890481a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\b7eb5e8ce01c0bedc4368c94af0ed20c8513874d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_b0e70a06d29c447cb0a4ecf8b5b8be23d40ba80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\4d47f2c2ae76149a8af1f722c6bbee2936ecb229\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_a372722bf23731f377fd9d8b0f33f6b2f2414c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\0ed179795f9d7beaef112ef6d41cf16c0885bf62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_8b9930c502fa3e9a25e5642049f24e29ee34aa70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_857520beca6315fe546678beb3c5325b5d0e497e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\40ec8deb898f0b04e7bac6d527c6449794d00c52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_ce6851efeffd4dab8f66924780d88629ae703344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\16781290153799d81658a41bb33d0ebb3823aaf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_b4abfe7b0b8ace41db94d1dec7f3552738174eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\47a24ea4eabee50ae84fa477e34ed1c3712e26ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_a06735e8d7f348f12eeced2e5a1053b1b89d5919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\anves\.android\build-cache\f2b6782cee21ee66c381e2c82c1ed7aa20d8ac22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\anves\Documents\GitHub\Web_Mobile-Programming\Mobile_Module\Mobile_ICP6\Android-Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_fb57bef29c321cf7b04b0e218f5311897ed2db70.jar" />
+    </item>
+
+</items>
